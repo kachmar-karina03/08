@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\galinasenik\source\repos\8_2\8_2.cpp(20,23): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\galinasenik\source\repos\8_2\Debug\UnitTest1.lib и объект C:\Users\galinasenik\source\repos\8_2\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\galinasenik\source\repos\8_2\Debug\UnitTest1.dll
